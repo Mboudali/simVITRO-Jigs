@@ -27,3 +27,8 @@ Clavicle clamp:
 Scapula clamp:
 - L clamp: An L shaped aluminium bracket is equipped with two M8 bolts. The latter are used to press the scapula against two rotating jaws to accommodate the curvature of the bone. We recommend placing two M8 nuts between the L clamp and the bone against the metal plat to mitigate the bending of the bolts and avoid damaging the testing apparatus.
 
+<b/>Hip Resurfacing Implant Loading Cup: </b> 
+CAD files of the testing jig used in the study of the femur flexion under load after femoral head resurfacing.
+
+- Spherical cup: the cylinders interface with the simVITRO memory clamp and have half a sphere indent to fit hip resurfacing implants of the following diameters: 36, 38, 40, 42, 44, 46, 48, 50, 52, and 58mm. 
+We recommend machining these parts using polyethylene or nylon block.
