@@ -19,7 +19,9 @@ Patella tracker:
 - Marker set: 6 unique marker set clusters receiving four reflective markers. Can be replaced by QR code trackers. 
 
 <b/>ACJ testing jig: </b> 
-CAD files of the testing jig used in the study of the Acromion Clavicle joint.
+CAD files of the testing jig used in the study of the Acromion Clavicle joint. 
+
+Link: <a href="https://www.sciencedirect.com/science/article/pii/S1058274624005536?via%3Dihub">https://www.sciencedirect.com/science/article/pii/S1058274624005536?via%3Dihub</a> 
 
 Clavicle clamp:
 - Cylinder clamp: M8 bolts are inserted in the threaded holes until making secure contact with the clavicle. We recommend using a minimum of 6 bolts to secure the clavicle.
